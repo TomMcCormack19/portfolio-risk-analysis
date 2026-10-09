@@ -25,7 +25,6 @@ Historical daily price data was obtained using `yfinance` for the period from Ja
 ```text
 Portfolio-Risk-Analysis/
 │
-├── Data/
 ├── Notebooks/
 │   ├── 01_data_analysis.ipynb
 │   ├── 02_correlation.ipynb
@@ -33,17 +32,17 @@ Portfolio-Risk-Analysis/
 │   └── 04_portfolio_optimisation.ipynb
 │
 ├── Results/
-│   ├── correlation_heatmap.png
-│   ├── daily_portfolio_returns_distribution.png
-│   ├── portfolio_drawdown_over_time.png
-│   ├── efficient_frontier.png
-│   └── portfolio_comparison.png
+│   ├── Correlation Matrix.png
+│   ├── Daily Portfolio Returns Distribution.png
+│   ├── Efficient Frontier.png
+│   ├── Portfolio Drawdown.png
+│   └── Portfolio Return vs Volatility.png
 │
-├── src/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
+
 
 ## Methodology
 
