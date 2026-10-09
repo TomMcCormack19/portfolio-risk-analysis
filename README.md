@@ -167,7 +167,7 @@ The distribution of daily portfolio returns provides an overview of the portfoli
 
 The drawdown chart shows the historical decline in portfolio value from previous peaks and identifies periods of larger losses.
 
-![Portfolio Drawdown](Results/Portfolio%20Drawdown .png)
+![Portfolio Drawdown](Results/Portfolio%20Drawdown.png)
 
 ### Efficient Frontier
 
